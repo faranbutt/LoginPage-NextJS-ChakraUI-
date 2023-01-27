@@ -1,10 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Login Page App project bootstrapped with NextJS and Chakra UI.
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+git clone https://github.com/faranbutt/LoginPage-NextJS-ChakraUI-.git
+cd LoginPage-NextJS-ChakraUI
 npm run dev
 # or
 yarn dev
